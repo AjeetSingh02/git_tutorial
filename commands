@@ -1,0 +1,15 @@
+git --version
+touch index.html
+git init
+git config --global user.name 'Ajeet Singh'
+git add index.html
+git status
+git rm --cached index.html
+git add *.html
+git add .
+git commit
+git commit -m 'changed app.js'
+touch .gitignore      	
+	to exclude some miles from being committed
+
+
