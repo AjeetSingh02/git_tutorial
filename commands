@@ -12,4 +12,16 @@ git commit -m 'changed app.js'
 touch .gitignore      	
 	to exclude some miles from being committed
 
+git branch login
+git checkout login
+git merge login
+
+git remote add origin https://github.com/AjeetSingh02/git_tutorial.git
+
+
+git remote
+git remote rm origin
+
+git push -u origin master
+
 
