@@ -1,1 +1,1 @@
-# ALl this was created while learning Git.
+# ALL this was created while learning Git.
