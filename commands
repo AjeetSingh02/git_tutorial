@@ -5,7 +5,9 @@ touch index.html
 	git init
 
 # To set configurations
-	git config --global user.name 'Ajeet Singh'
+	git config --global user.name "User Name"
+	git config --global user.email "you@example.com"
+
 
 # To stage a file
 	git add index.html
