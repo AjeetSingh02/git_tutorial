@@ -52,8 +52,12 @@ touch index.html
 # Remove remote repository
 	git remote rm origin
 
-# Pushing to remote repository for first time
+# Pushing Pulling to remote repository for first time
 	git push -u origin master
+	git push --set-upstream origin master 
+	
+	git pull origin master 
+	
 
 # Push and Pull
 	git push
